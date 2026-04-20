@@ -1,0 +1,9 @@
+<suite name="Flight Booking Automation Suite">
+
+    <test name="Flight Booking Tests">
+        <classes>
+            <class name="tests.FlightBookingTest"/>
+        </classes>
+    </test>
+
+</suite>
